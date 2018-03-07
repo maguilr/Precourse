@@ -1,0 +1,42 @@
+body {
+    background-image: url(https://i.redd.it/p0nlw3651dk01.jpg);
+}
+
+h1 {
+    color: indigo;
+    width: 50%;
+    margin: 0 auto;
+}
+
+h3 {
+    width: 40%;
+    margin: 0 auto;
+}
+
+h4 {
+    width: 45%;
+    margin: 0 auto;
+}
+            
+img {width: 400px;}
+            
+#thirdDiv {
+    height: 600px;
+    width: 50%;
+    margin: 0 auto;
+    background-color: rebeccapurple;
+    padding: 50px;
+    border: 2px rebeccapurple solid;
+}
+
+.divClass {
+    position: relative;
+    width: 50%;
+    margin: 0 auto;
+}
+            
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+            
