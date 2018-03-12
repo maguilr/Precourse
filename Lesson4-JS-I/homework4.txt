@@ -1,0 +1,9 @@
+Variables: “A variable stores items in a box. Each one of these boxes has a label in front of it to describe what is inside the box. For example, with a label named “toys” you would expect to find anything that relates to toys in the box.”
+
+Strings: “A string is the computers way of knowing that you are typing in words. The way to tell a computer this is by putting quotes around the message you want the computer to speak”
+
+Functions (arguments, return): “A function is like a car that has a bunch of given qualities like windshield wipers, a battery, wiper fluid, breaks, and headlights. The return is like the key to start the car without it none of the qualities given to the function will work. An argument is like the brand of the car, so if you pass BMW it will produce a car that is a BMW”
+
+if statements: “An if statement will do something ‘if’ the requirement holds true. So unless you have the requirement the command typed in will not work”
+
+Boolean values(true, false): “Booleans tell a computer if something is true or false or in other words ‘yes’ or ‘no’. They do not need a quotes around them.”
